@@ -3,6 +3,7 @@
 - 👀 We are here to help organise the information on the internet
 - 🌱 We built a JSON-LD schema generator and now we are building an AI content generator
 - 💞️ we are looking to collaborate on building standered JSON-LD schemas to help describ entities on the interent and their relationships
+- Ask me about JSON-LD
 - 📫 How to reach me:
 - https://schemantra.com
 - https://twitter.com/schemantra
