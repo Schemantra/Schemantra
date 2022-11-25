@@ -3,7 +3,7 @@
 
 - 🔭 We are currently working on **organising the information on the internet**
 
-- 🌱 We are currently learning **We built a JSON-LD schema generator and now we are building an AI content generator**
+- 🌱 **We built a JSON-LD schema generator and now we are building an AI content generator**
 
 - ⚡ Fun fact **we are looking to collaborate on building standered JSON-LD schemas to help describ entities on the interent and their relationships**
 
