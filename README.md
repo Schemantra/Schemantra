@@ -13,6 +13,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/schemantra-inc-89b224238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/schemantra-inc-89b224238/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@schemantra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@schemantra" height="30" width="40" /></a>
 </p>
+<a href="https://www.reddit.com/r/Schemantra/" target="blank"><img align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="@schemantra" height="30" width="40" /></a>
+</p>
 
 - https://www.reddit.com/r/Schemantra/
 
