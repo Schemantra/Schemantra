@@ -1,0 +1,125 @@
+#JSON-LD Template for a Real Estate Listing
+
+
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "web1",
+  "mainEntity": {
+    "@id": "apartment1"
+  },
+  "potentialAction": {
+    "@id": "action"
+  },
+  "about": {
+    "@id": "contact"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "Action",
+  "@id": "action",
+  "description": "contact form",
+  "name": "contact form",
+  "target": {
+    "@id": "target"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "EntryPoint",
+  "@id": "target",
+  "description": "contact form"
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPoint",
+  "@id": "contact",
+  "description": "Real Estate agent",
+  "name": "name of agent",
+  "telephone": "phone number of agent",
+  "url": "page of agent",
+  "potentialAction": {
+    "@id": "call"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "CommunicateAction",
+  "@id": "call",
+  "description": "phone call"
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "Apartment",
+  "@id": "apartment1",
+  "address": "192 st",
+  "numberOfFullBathrooms": "2",
+  "numberOfRooms": "3",
+  "yearBuilt": "2022",
+  "image": "url",
+  "specialOpeningHoursSpecification": {
+    "@id": "opening_hours"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "OpeningHoursSpecification",
+  "@id": "opening_hours",
+  "opens": "12:00",
+  "closes": "16:30",
+  "validFrom": "2022-10-21",
+  "validThrough": "2022-10-31"
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "apartment1",
+  "offers": {
+    "@id": "offer"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "Offer",
+  "@id": "offer",
+  "price": "100,000",
+  "priceCurrency":"USD",
+  "offeredBy": {
+    "@id": "realtor1"
+  }
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "@id": "realtor1", 
+  "name":"The Realtor Company",
+  "AreaServed": "Chico, NE, CA"
+}
+</script>
+<script type="application/ld+json" class="schemantra.com">
+{
+  "@context": "https://schema.org",
+  "@type": "RealEstateListing",
+  "@id": "apartment1"
+}
+</script>
