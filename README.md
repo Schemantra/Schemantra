@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **we are looking to collaborate on building standered JSON-LD schemas to help describ entities on the interent and their relationships**
 
-Visit our website https://schemantra.com/
+For more information please visit our website https://schemantra.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
