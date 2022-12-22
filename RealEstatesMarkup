@@ -1,5 +1,5 @@
 #JSON-LD Template for a Real Estate Listing
-#You can easily create this schema or any other JSON-LD schema using Schemantra https://schemantra.com/)
+#You can easily create this schema or any other JSON-LD schema using [Schemantra](https://schemantra.com/)
 
 <script type="application/ld+json" class="schemantra.com">
 {
