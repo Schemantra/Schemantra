@@ -1,4 +1,6 @@
 #JSON-LD Template for a Real Estate Listing
+#for more info please check this entity based SEO case study for real estates
+https://schemantra.com/blog/2022/12/22/entity-based-seo-case-study/
 #You can easily create this schema or any other JSON-LD schema using [Schemantra](https://schemantra.com/)
 
 <script type="application/ld+json" class="schemantra.com">
